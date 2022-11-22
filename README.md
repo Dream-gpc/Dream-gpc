@@ -1,7 +1,7 @@
 #  PCGao ！
 
 * 别人看我写代码时的样子  
-<img src="https://github.com/Dream-gpc/Dream-gpc/blob/main/niko.gif" width="150px">
+  <img src="https://github.com/Dream-gpc/Dream-gpc/blob/main/niko.gif" width="150px">
  
 
 
