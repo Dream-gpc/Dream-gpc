@@ -1,8 +1,12 @@
 #  PCGao ！
 
+* ![当我写代码的时候](https://github.com/Dream-gpc/Dream-gpc/blob/main/niko.gif)
+
+
 * 以自己想要的方式过完一生，就是成功。  
 * Silence makes big money.    
-* 
+* ![头像](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg)
+
 
 <!---
 Dream-gpc/Dream-gpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
