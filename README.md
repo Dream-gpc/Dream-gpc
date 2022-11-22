@@ -1,4 +1,4 @@
-#  PC Gao ！
+#  PCGao ！
 
 * 以自己想要的方式过完一生，就是成功。  
 * Silence makes big money.    
