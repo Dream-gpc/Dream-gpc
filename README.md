@@ -5,7 +5,7 @@
 
 * 以自己想要的方式过完一生，就是成功。  
 * Silence makes big money.    
-* ![头像](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg)
+* [头像](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg)
 
 
 <!---
