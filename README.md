@@ -5,9 +5,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-*z
-*Silence makes big money.  
-*
+
+* 以自己想要的方式过完一生，就是成功。  
+* Silence makes big money.    
+* 
 
 <!---
 Dream-gpc/Dream-gpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
