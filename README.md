@@ -1,4 +1,4 @@
-#  PCGao ！
+#  PcGao ！
 
 * When my coworkers see me knock code.  
   <img src="https://github.com/Dream-gpc/Dream-gpc/blob/main/niko.gif" width="150px">  
