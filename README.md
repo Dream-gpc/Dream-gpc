@@ -6,6 +6,8 @@
 * Silence makes big money.    
 * [Photos](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg)  
 
+![](https://raw.githubusercontent.com/Dream-gpc/Dream-gpc/main/assets/github-contribution-grid-snake.svg)
+
 <!---
 Dream-gpc/Dream-gpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
