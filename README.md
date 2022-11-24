@@ -8,6 +8,14 @@
 
 ![](https://raw.githubusercontent.com/Dream-gpc/Dream-gpc/main/assets/github-contribution-grid-snake.svg)
 
+
+const readme = `\
+### Hi there 👋
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+---
+⏰ Updated on ${new Date().toUTCString()}
+---
+
 <!---
 Dream-gpc/Dream-gpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
