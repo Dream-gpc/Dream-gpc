@@ -6,6 +6,10 @@
 * [Photos](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg) 
 
 
+![](https://raw.githubusercontent.com/Dream-gpc/Dream-gpc/main/assets/github-contribution-grid-snake.svg)
+
+
+
 
 ⏳ Year progress { ██████████████████████████▁▁▁▁ } 89.68 %
 ---
