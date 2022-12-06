@@ -1,6 +1,6 @@
 # Is PcGao! 😊
 
-* When my coworkers see me knock code.  
+* My coworkers see me coding.  
   <img src="https://github.com/Dream-gpc/Dream-gpc/blob/main/niko.gif" width="150px"> 
 * Silence makes big money. 
 * I'm wondering about my destiny. 
