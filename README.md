@@ -7,7 +7,8 @@
 * Maybe spending your life as you wish is success. 
 * A distant dreamer.
 * [Photos](https://github.com/Dream-gpc/Dream-gpc/blob/main/memory.jpg) 
-
+<!-- 
 
 ![](https://raw.githubusercontent.com/Dream-gpc/Dream-gpc/main/assets/github-contribution-grid-snake.svg)
 
+ -->
